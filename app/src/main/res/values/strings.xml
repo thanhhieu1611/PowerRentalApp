@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Power Rental</string>
+    <string name="txtNumOfDays">Number Of Days</string>
+    <string name="radPowerWasher">Power Washer</string>
+    <string name="radTiller">Tiller</string>
+    <string name="btnComputeCost">Compute Cost</string>
+    <string name="txtFinalCost">Final Cost</string>
+    <string name="hintNumOfDays">0</string>
+    <string name="txtAuthorName">Hieu Dang</string>
+</resources>
